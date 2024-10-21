@@ -22,8 +22,12 @@ Here are a few of the projects that define what I do:
 ### [🍲 FoodConnect](https://github.com/njunge3/foodconnect)
 > A platform that bridges the gap between surplus food in grocery stores and restaurants with local shelters and orphanages to reduce waste and support the community. 💡🌱
 
-### [🔍 Granular Data Integration (GDI) System for Victoria Bank](https://github.com/njunge3/victoria-bank-gdi)
+<details>
+  <summary>🔍 Granular Data Integration (GDI) System for Victoria Bank (Click to expand)</summary>
+
 > A system that assists in data mapping and reporting for smoother communication with the Central Bank of Kenya. Think of it as data with a mission! 📊💼
+
+</details>
 
 *(Check out more in the repositories section for projects like Job Tracker, GDP Comparison Dashboard, and more!) 🚀*
 
